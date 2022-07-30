@@ -14,38 +14,7 @@ using System;
 
 class Result
 {
-    /*
-     * Complete the 'divisibleSumPairs' function below.
-     *
-     * The function is expected to return an INTEGER.
-     * The function accepts following parameters:
-     *  1. INTEGER n
-     *  2. INTEGER k
-     *  3. INTEGER_ARRAY ar
-     */
-
-     // Sample change branch
-
-    public static int divisibleSumPairs(int n, int k, List<int> ar)
-    {
-        var retCount = 0;
-        var skipIndex = 1;
-        foreach(var number in ar)
-        {
-            foreach(var partner in ar.Skip(skipIndex))
-            {
-                var eval = number + partner;
-                Console.WriteLine($"Sum = {eval}");
-                if (eval%k == 0)
-                {
-                    retCount++;
-                }
-            }
-            skipIndex++;
-        }
-
-        return retCount;
-    }
+    
 
 }
 
