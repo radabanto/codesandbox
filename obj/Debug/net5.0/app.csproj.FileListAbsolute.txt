@@ -1,0 +1,15 @@
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/app.deps.json
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/app.runtimeconfig.json
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/app.runtimeconfig.dev.json
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/app.dll
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/ref/app.dll
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/bin/Debug/net5.0/app.pdb
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.csproj.AssemblyReference.cache
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.AssemblyInfoInputs.cache
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.AssemblyInfo.cs
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.csproj.CoreCompileInputs.cache
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.dll
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/ref/app.dll
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.pdb
+/Users/RanelAbanto/Desktop/Hackerrank Sandbox/app/obj/Debug/net5.0/app.genruntimeconfig.cache
