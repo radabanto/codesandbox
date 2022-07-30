@@ -24,6 +24,8 @@ class Result
      *  3. INTEGER_ARRAY ar
      */
 
+     // Sample change
+
     public static int divisibleSumPairs(int n, int k, List<int> ar)
     {
         var retCount = 0;
