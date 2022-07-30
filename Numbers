@@ -1,0 +1,33 @@
+namespace hackerrank
+{
+    public class Numbers
+    {
+        public static int lonelyinteger(List<int> a)
+        {
+            a.Sort();
+            var prev = -1;
+            var isFirstOccurence = false;
+            foreach(var number in a)
+            {
+                Console.WriteLine($"Current: {prev}");
+                if ((number != prev) && !isFirstOccurence)
+                {
+                    Console.WriteLine($"First Occurence Match");
+                    isFirstOccurence = true;
+                    prev = number;
+                    Console.WriteLine($"Current: {prev}");
+                }
+                else if ((number != prev) && isFirstOccurence)
+                {
+                    return prev;
+                }
+                else if ((number == prev) && isFirstOccurence)
+                {
+                    isFirstOccurence = false;
+                }
+            }
+
+            return prev;
+        }
+    }
+}
