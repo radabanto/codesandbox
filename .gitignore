@@ -13,3 +13,8 @@ node_modules
 # Ignore build files
 bin
 objs
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/app.AssemblyInfo.cs
+obj/Debug/net5.0/app.AssemblyInfoInputs.cache
+obj/Debug/net5.0/app.csproj.AssemblyReference.cache
+obj/Debug/net5.0/app.GeneratedMSBuildEditorConfig.editorconfig
