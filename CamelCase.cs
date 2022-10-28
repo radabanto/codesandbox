@@ -17,13 +17,13 @@ namespace hackerrank
     public class CamelCaseProblem
     {
         static void TitleCaseMyCamelStrings(List<string> inputList, int startingIndex)
-    {
-        TextInfo textInfo = new CultureInfo("en-US",false).TextInfo;
-        for(int i = startingIndex; i < inputList.Count; i++)
         {
-            inputList[i] = textInfo.ToTitleCase(inputList[i]);
+            TextInfo textInfo = new CultureInfo("en-US",false).TextInfo;
+            for(int i = startingIndex; i < inputList.Count; i++)
+            {
+                inputList[i] = textInfo.ToTitleCase(inputList[i]);
+            }
         }
-    }
 
     static List<string> SplitMyCamelCase(string input, string splitType)
     {
