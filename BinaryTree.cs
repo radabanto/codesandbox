@@ -93,3 +93,32 @@ class Tree
         }
     }
 }
+    // Sample Program
+    // static void Main(string[] args)
+    // {
+    //     Tree BinarySearchTree = new Tree();
+    //     BinarySearchTree.Insert(30);
+    //     BinarySearchTree.Insert(35);
+    //     BinarySearchTree.Insert(50);
+    //     BinarySearchTree.Insert(15);
+    //     BinarySearchTree.Insert(60);
+    //     BinarySearchTree.Insert(40);
+    //     BinarySearchTree.Insert(80);
+    //     BinarySearchTree.Insert(75);
+    //     BinarySearchTree.Insert(65);
+    //     BinarySearchTree.Insert(90);
+    //     BinarySearchTree.Insert(85);
+
+    //     Console.WriteLine("Inorder Traversal is: ");
+    //     BinarySearchTree.In_order(BinarySearchTree.ReturnRoot());
+    //     Console.WriteLine(" ");
+    //     Console.WriteLine();
+    //     Console.WriteLine("Preorder Traversal is: ");
+    //     BinarySearchTree.Pre_order(BinarySearchTree.ReturnRoot());
+    //     Console.WriteLine(" ");
+    //     Console.WriteLine();
+    //     Console.WriteLine("Postorder Traversal is: ");
+    //     BinarySearchTree.Post_order(BinarySearchTree.ReturnRoot());
+    //     Console.WriteLine(" ");
+    //     Console.ReadLine();
+    // }
